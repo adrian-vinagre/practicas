@@ -1,5 +1,5 @@
 # Título de la página
 
-Esto es una página
+Prácticas
 
-Holi
+[PR-1003](Practicas/12_pr1003.md)
